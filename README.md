@@ -6,3 +6,4 @@ Syntax for Dockerfile in STANDART Dark theme
 2. **Restart** Notepad++
 3. Change Syntax in "Language > Dockerile" (Синтаксис > Dockerile)
 
+![view](/pic/pin.png)
