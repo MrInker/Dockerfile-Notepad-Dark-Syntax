@@ -1,2 +1,3 @@
-# Dockerfile-Notepad-Dark-Syntax
-Dockerfile Notepad++ Dark Syntax
+# Dockerfile Notepad++ Dark Syntax
+
+Syntax for Dockerfile in STANDART Dark theme
